@@ -1,11 +1,13 @@
 # 🔒 Code Quiz 🔒
 
+
 ## Table of contents 🚀
 
 * [Introduction](#Introduction)
 * [Requirements](#Requirements-📣)
 * [Before we get started](#before-we-get-started-🚩)
-* [Personal opinion](#personal-opinion-™️)
+* [Personal opinion](#Personal-opinion)
+* [Deployed links](#Deployed-links)
 * [Credits](#credits)
 
 
@@ -27,20 +29,23 @@ Please be aware that each time you make a mistake ❌	 the timer will rest 20 se
 * Basic coding knowledge 📖
 
 
-
 ## Before we get started 🚩
 
 Be sure to have practiced the previous coding languages in order to get the best grade possible 💯. 	
 
+
 ## Personal opinion 💭
 
 Having basic knowledge regardging these basic coding languages is really imporrtant since its the first step to start coding in real life.
+
 
 ## Deployed links ✏️
 
 * [GitHub Pages]
 
 * [Github Repository](https://github.com/Fabri-Tech?tab=repositories)
+
+
 
 ## Credits
 
