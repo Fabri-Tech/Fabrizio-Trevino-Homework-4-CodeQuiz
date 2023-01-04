@@ -1,9 +1,9 @@
-# 🔒 Password Generator Starter Code 🔒
+# 🔒 Code Quiz 🔒
 
 ## Table of contents 🚀
 
-* [Introduction](#introduction)
-* [Requirements](#requirements-📣)
+* [Introduction](#Introduction)
+* [Requirements](#Requirements-📣)
 * [Before we get started](#before-we-get-started-🚩)
 * [Personal opinion](#personal-opinion-™️)
 * [Credits](#credits)
@@ -11,7 +11,7 @@
 
 ## Introduction 💣
 
-Welcome to my first quizz created using JavaScript. Please feel free to try as many attempts as you wish. 
+Welcome to my first quiz created using JavaScript. Please feel free to try as many attempts as you wish. 
 
 The test will include 5 basic questions from the following topics: 🟧HTML, 🟦CSS, 🟨JavaScript.
 
